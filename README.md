@@ -1,2 +1,2 @@
-# NJuice
-# Business Application Development Final Group Project
+# NJuiceApp
+NJuice is a Java OOP coding project that my group and I developed during the third semester. This Java coding project was created using the JavaFX library. In this application, users can log in and browse a list of available fruits for purchase. User can access their cart, delete items in their cart, add new item to their cart, and checkout all items in their cart. In this application, admins can also view, insert, update, and delete products in NJuice's catalogue. This application supports this functionality because all data is stored in a database using PhpMyAdmin, allowing it to accommodate a specific quantity of items. Moreover, user sign up and login data are securely stored.
